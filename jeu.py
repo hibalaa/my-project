@@ -21,7 +21,7 @@ def play(choice):
 
 root = tk.Tk()
 root.title("Pierre Papier Ciseaux")
-root.geometry("300x250")
+root.geometry("500x350")
 
 
 label = tk.Label(root, text="Choisis : Pierre, Papier ou Ciseaux", font=("Arial", 12))
